@@ -4,7 +4,7 @@ description: Liens de ressources sur ELM
 image_url: https://github.com/walkingdev/elm/blob/master/media/banner-elm.jpg?raw=true
 ---
 
-# Session ELM
+# Session ELM2
 
 ## Liens
 - [Awesome Elm](https://github.com/isRuslan/awesome-elm)
