@@ -56,10 +56,10 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 ### Je m'inscris où ?
 
-Tu peux t'inscrire en éditant cette page sur Github : [inscriptions.md](https://github.com/walkingdev/elm/edit/master/v33/inscriptions.md). Ton inscription n'est confirmée qu'une fois que ton nom apparait effectivement sur la page d'[inscriptions](http://walkingdev.fr/#walkingdev/elm/blob/master/v33/inscriptions.md).
-
 Tu peux aussi nous envoyer un petit mail :
+
 [denis_benoist@yahoo.fr](mailto:denis_benoist@yahoo.fr)
+
 [stephanie.serrot@aet.fr](mailto:stephanie.serrot@aet.fr)
 
 ### Ça coûte combien cette petite escapade ?
