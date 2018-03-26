@@ -79,7 +79,7 @@ Ne te prive pas de cette super journée pour des problèmes matériels, contacte
 
 Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végétalien ou avec des restrictions alimentaires, préviens nous.
 
-#### Et si j'ai une question ?
+### Et si j'ai une question ?
 
 Tu peux contacter :
 - Denis - [@DenisBenoist](http://twitter.com/DenisBenoist) (dm ouvert)
