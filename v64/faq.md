@@ -11,7 +11,7 @@ image_url: https://github.com/walkingdev/elm/blob/master/v33/media/banner-elm.jp
 ### On va faire quoi ?
 
 L'idée, c'est de découvrir ce qu'est une entreprise libérée et ses pratiques, en même temps que des endroits insolites.
-Dans chaque lieu, en binôme ou en groupe on explore une partie du sujet, via des petits ateliers, présentations, questionnements ou autres expérimentations puis on passe à l'endroit suivant.
+Dans chaque lieu, en binôme ou en groupe, on explore une partie du sujet, via des ateliers, présentations, questionnements ou autres expérimentations puis on passe à l'endroit suivant.
 On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 ### C'est quand et où ?
@@ -64,8 +64,8 @@ Tu peux aussi nous envoyer un petit mail :
 
 ### Ça coûte combien cette petite escapade ?
 
-69 €, à noter que ce prix inclue le déjeuner, les boissons et collations sur la journée soit un budget entre 30 et 40€/pers. 
-Les organisateurs ne sont pas rénumérés et sont invités par les participants. 
+69 €, à noter que ce prix inclut le déjeuner, les boissons et collations sur la journée soit un budget entre 30 et 40€/pers. 
+Les organisateurs ne sont pas rémunérés et sont invités par les participants. 
 
 ### Et où passe tout ce butin ?
 
