@@ -18,7 +18,7 @@ On profitera du trajet pour débriefer sur la session que l'on vient de faire.
 
 A Pau, 
 
-La marche commencera le vendredi 22 juin 2018 à 9h au [Boulangerie Du Moulin Marsan](https://www.facebook.com/BoulangerieMoulinMarsan/) - [12 rue maréchal Foch - Pau](https://wego.here.com/directions/mix//Boulangerie-Du-Moulin-Marsan,-12-rue-mar%C3%A9chal-Foch,-64000-Pau:e-eyJuYW1lIjoiQm91bGFuZ2VyaWUgRHUgTW91bGluIE1hcnNhbiIsImFkZHJlc3MiOiIxMiBydWUgbWFyXHUwMGU5Y2hhbCBGb2NoLCBQYXUiLCJsYXRpdHVkZSI6NDMuMjk2NzUsImxvbmdpdHVkZSI6LTAuMzY3MjgsInByb3ZpZGVyTmFtZSI6ImZhY2Vib29rIiwicHJvdmlkZXJJZCI6MTY3MzI1OTE2OTY2NjU3OH0=?map=43.29675,-0.36728,15,normal&fb_locale=fr_FR)
+La marche commencera le vendredi 22 juin 2018 à 9h - [Boulangerie Du Moulin Marsan](https://www.facebook.com/BoulangerieMoulinMarsan/) - [12 rue maréchal Foch - Pau](https://wego.here.com/directions/mix//Boulangerie-Du-Moulin-Marsan,-12-rue-mar%C3%A9chal-Foch,-64000-Pau:e-eyJuYW1lIjoiQm91bGFuZ2VyaWUgRHUgTW91bGluIE1hcnNhbiIsImFkZHJlc3MiOiIxMiBydWUgbWFyXHUwMGU5Y2hhbCBGb2NoLCBQYXUiLCJsYXRpdHVkZSI6NDMuMjk2NzUsImxvbmdpdHVkZSI6LTAuMzY3MjgsInByb3ZpZGVyTmFtZSI6ImZhY2Vib29rIiwicHJvdmlkZXJJZCI6MTY3MzI1OTE2OTY2NjU3OH0=?map=43.29675,-0.36728,15,normal&fb_locale=fr_FR)
 
 A Toulouse, 
 
