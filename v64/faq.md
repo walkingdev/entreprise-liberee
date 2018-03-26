@@ -82,5 +82,5 @@ Rien n'est décidé pour l'instant. Si tu manges sans gluten, que tu es végéta
 #### Et si j'ai une question ?
 
 Tu peux contacter :
-- Denis - [@aDenisBenoist](http://twitter.com/DenisBenoist) (dm ouvert)
+- Denis - [@DenisBenoist](http://twitter.com/DenisBenoist) (dm ouvert)
 
