@@ -33,7 +33,7 @@ La journée se termine vers 18h00.
 
 ### Mais c'est pas une formation ?
 
-Ben non. Enfin, ça dépend de toi. Il n'y aura pas de coach venant dispenser la bonne parole, juste des gens qui ont envie de partager leur expérience.
+Ben non. Enfin, ça dépend de toi. Il n'y aura pas de coach venant dispenser la bonne parole, juste des gens qui ont envie de partager leurs expériences.
 
 On essaye de t'offrir un contexte pour apprendre des choses et expérimenter.
 
