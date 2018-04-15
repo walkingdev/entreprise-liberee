@@ -1,7 +1,7 @@
 ---
 title: Faq EL V-64
 description: Une petite exploration de la culture de l'entreprise libérée sur Pau et Toulouse.
-image_url: https://github.com/walkingdev/entreprise-liberee/blob/master/v64/media/banner-el.jpg
+image_url: https://github.com/walkingdev/entreprise-liberee/blob/master/v64/media/banner-el.jpg?=raw
 ---
    
 # Session Entreprise libérée
