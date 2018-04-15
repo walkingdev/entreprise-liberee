@@ -6,6 +6,8 @@ image_url: https://github.com/walkingdev/elm/blob/master/v33/media/banner-elm.jp
    
 # Session Entreprise libérée
 
+![Etape](/media/coffee.jpg "Etape")
+
 ## FAQ
 
 ### On va faire quoi ?
