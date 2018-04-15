@@ -1,7 +1,7 @@
 ---
 title: Faq ELM V-33
 description: Une petite exploration de la culture de l'entreprise libérée sur Pau et Toulouse.
-image_url: https://github.com/walkingdev/elm/blob/master/v33/media/banner-elm.jpg?raw=true
+image_url: https://github.com/walkingdev/entreprise-liberee/blob/master/v64/media/banner-elm.jpg?raw=true
 ---
    
 # Session Entreprise libérée
