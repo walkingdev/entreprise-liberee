@@ -58,7 +58,7 @@ Si ça te semble beaucoup mais que tu as envie de faire partie de l'aventure, pa
 
 Tu peux aussi nous envoyer un petit mail :
 
-[denis_benoist@yahoo.fr](mailto:denis_benoist@yahoo.fr)
+[denis.benoist@aet.fr](mailto:denis.benoist@aet.fr)
 
 [stephanie.serrot@aet.fr](mailto:stephanie.serrot@aet.fr)
 
