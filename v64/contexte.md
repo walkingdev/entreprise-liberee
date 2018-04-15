@@ -1,5 +1,6 @@
 EN CONSTRUCTION
 
+
 # Valeurs
 - Un contexte apprenant, pas une formation
 - // On fait à manger nous même, pas de restaurant
