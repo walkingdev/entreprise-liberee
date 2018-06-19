@@ -62,6 +62,8 @@ Tu peux aussi nous envoyer un petit mail :
 
 [stephanie.serrot@aet.fr](mailto:stephanie.serrot@aet.fr)
 
++ Claude Aubry pour Toulouse
+
 ### Ça coûte combien cette petite escapade ?
 
 69 €, à noter que ce prix inclut le déjeuner, les boissons et collations sur la journée soit un budget entre 30 et 40€/pers. 
