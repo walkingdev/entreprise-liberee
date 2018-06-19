@@ -62,7 +62,7 @@ Tu peux aussi nous envoyer un petit mail :
 
 [stephanie.serrot@aet.fr](mailto:stephanie.serrot@aet.fr)
 
-+ Claude Aubry pour Toulouse
+et Claude Aubry pour Toulouse
 
 ### Ça coûte combien cette petite escapade ?
 
